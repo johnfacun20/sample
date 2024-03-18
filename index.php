@@ -1,3 +1,3 @@
 <?php
-    echo "Hello World!";
+    echo "Isabela State University";
 ?>
